@@ -31,7 +31,9 @@ However, the months between April and July show relatively lower sales, hinting 
   - Improve delivery efficiency 🚚
   - Design **mid-year engagement campaigns**
   - Strengthen **Tier-2 city marketing** strategies
-  - 
 
 ## 🏷️ Tags
 `#ExcelDashboard` `#SalesAnalysis` `#FernsNPetals` `#DataVisualization` `#BusinessIntelligence`
+
+NOTE: Dataset is available at this repo - 
+https://github.com/Ayushi0214/FNP---Excel-Project/tree/main/fnp%20datasets
